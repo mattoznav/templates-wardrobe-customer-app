@@ -4,6 +4,13 @@ The clothing store's app for customers: an editorial front page, the catalogue w
 
 Flutter, Riverpod, go_router and Dio. iOS and Android. Part of the [`templates-wardrobe`](https://github.com/mattoznav/templates-wardrobe) template, inside the [`templates`](https://github.com/mattoznav/templates) collection.
 
+## Requirements
+
+- Flutter 3.44 or newer (Dart 3.12)
+- For iOS: macOS with Xcode and CocoaPods; the app targets iOS 15 or later
+- For Android: Android Studio with an emulator or a device
+- The backend running locally (see its README)
+
 ## Quick start
 
 Start the [backend](https://github.com/mattoznav/templates-wardrobe-backend) first, then:
