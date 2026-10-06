@@ -71,3 +71,7 @@ lib/
 - Remove the local networking exceptions, which are only for development: `NSAllowsLocalNetworking` in `ios/Runner/Info.plist` and `usesCleartextTraffic` in the debug Android manifest.
 
 Run the tests with `flutter test`.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Product photos are not part of the repository: they are loaded from Unsplash under the [Unsplash License](https://unsplash.com/license).
